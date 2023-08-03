@@ -1,0 +1,6 @@
+ControlFocus("Open","","Edit1")
+Sleep(2000)
+ControlSetText("Open","","Edit1","C:\Users\HP\OneDrive\Pictures\Screenshots\Screenshot (2).png")
+Sleep(2000)
+ControlFocus("Open","","Button1")
+ControlClick("Open","","Button1")
